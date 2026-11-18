@@ -1,0 +1,6 @@
+{
+  "name": "AcuityMed CDS",
+  "description": "Clinical decision-support workstation for analyzing approved medical images and clinical biomarker datasets to identify disease indicators and prioritize patient cases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
