@@ -188,13 +188,13 @@ Follow these steps to run AcuityMed locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/sambhram-1/AcuityMed.git
+(https://github.com/shri340/AcuityMed16)
 ```
 
 ### 2. Navigate to the Project Directory
 
 ```bash
-cd AcuityMed
+cd AcuityMed16
 ```
 
 ### 3. Install Dependencies
